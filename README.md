@@ -1,5 +1,6 @@
+<img width="1440" alt="Screenshot 2023-06-19 at 9 22 45 PM" src="https://github.com/AyushGupta235/AISafetyGPT/assets/64430119/c859f042-bea8-452c-b529-febeca5fe633">
 ---
-title: Ai Safety Gpt
+title: Ai Safety Gpt<img width="1440" alt="Screenshot 2023-06-19 at 9 22 45 PM" 
 emoji: 🐢
 colorFrom: pink
 colorTo: pink
