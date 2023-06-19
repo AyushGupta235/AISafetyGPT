@@ -61,7 +61,7 @@ st.set_page_config(
 )
 
 st.markdown(
-    "<h1 style='text-align: center; color: #ffffff;'>AI Safety Sentiment Analysis</h1>",
+    "<h1 style='text-align: center; color: #ffffff;'>AI Safety GPT</h1>",
     unsafe_allow_html=True
 )
 
