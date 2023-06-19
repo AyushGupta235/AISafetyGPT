@@ -1,5 +1,5 @@
 ---
-title: Ai Safety Gpt<img width="1440" alt="Screenshot 2023-06-19 at 9 22 45 PM" 
+title: AI Safety GPT
 emoji: 🐢
 colorFrom: pink
 colorTo: pink
